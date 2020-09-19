@@ -9,12 +9,16 @@
   <li>Banco H2</li>
   <li>JPA</li>
   <li>Angular</li>
- <li>Bootstrap</li>
- <li>Jquery</>
+  <li>Bootstrap</li>
+  <li>Jquery</>
+  <li>TypeScript</li>
 </ul>
 <hr>
 
 <h3>Screenshot :</h3>
+<img src="add.png"\>
+<img src="list.png"\>
+<img src="detalhes.png"\>
 
 <hr>
 <h3>Instalação</h3>
@@ -23,5 +27,5 @@
  <li>JRE OU JDK a partir da versão 1.8 instalado no pc</li>
  <li>IDE Spring tool suite</li>
  <li>Node</li>
- <li>TypeScript</li>
 </ol>
+
